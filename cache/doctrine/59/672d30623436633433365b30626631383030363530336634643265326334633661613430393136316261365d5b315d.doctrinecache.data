@@ -1,0 +1,5 @@
+1496039141
+a:2:{s:7:"content";s:681:"<p>An entirely new page which, I hope, celebrates the end of stage one of the rebirth of this site.</p>
+<p>But there does seem to be a teeny problem ...</p>
+<p>... Now apparently solved. I made a totally nOOb mistake, updating the remote site <em>via</em> the remote dashboard, which changes borked the automated git stuff that synchronises everything up. Maybe there's a way to have github pull those changes from the remote server, when necessary. Or maybe I should stop trying to be so bleeding clever and just remember not to attempt to do anything in the production environment.</p>
+<p>I guess I could also clean out the old_user stuff that I created to get to this point.</p>";s:12:"content_meta";N;}

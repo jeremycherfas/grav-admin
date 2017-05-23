@@ -1,0 +1,99 @@
+1496038104
+a:2:{s:7:"content";s:3120:"<div class="modular-row features ">
+	<h2>Older Posts</h2> 
+
+	<div class="feature-items">
+			<div class="feature" style="padding-right: 1rem;">
+				<h4 style="text-align:right;">Writing:</h4>
+			</div>
+		<div class="feature gray">
+			 
+			<h4>
+				<a href="/grav-admin/blog/my-first-indiewebcamp">My first IndieWebCamp</a>
+			</h4>
+									<h5 class="recent">Long live lifelong learning</h5>
+					
+			<p>
+				May 20, 2017
+			</p>
+			 
+		</div>
+		<div class="feature">
+			 
+			<h4>
+				<a href="/grav-admin/blog/down-the-rabbit-hole">Down the rabbit hole</a>
+			</h4>
+									<h5 class="recent">How I spent my weekend coding</h5>
+					
+			<p>
+				May 15, 2017
+			</p>
+			 
+		</div>
+		<div class="feature gray">
+			 
+			<h4>
+				<a href="/grav-admin/blog/sand-in-the-bearings">Sand in the bearings</a>
+			</h4>
+					
+			<p>
+				May 11, 2017
+			</p>
+			 
+		</div>
+	</div>
+	
+	<div class="feature-items">
+<div class="feature" style="padding-right: 1rem;">
+				<h4 style="text-align:right;">Reading:</h4>
+			</div>
+		<div class="feature gray">
+			 
+			<h4>
+				<a href="/grav-admin/reviews/thomas-meaney-on-timothy-snyder-on-tyranny">Thomas Meaney on Timothy Snyder On Tyranny</a>
+			</h4>
+					
+			<p>
+				May 1, 2017
+			</p>
+			 
+		</div>
+		<div class="feature">
+			 
+			<h4>
+				<a href="/grav-admin/reviews/hold-still">Hold Still</a>
+			</h4>
+					
+			<p>
+				Apr 14, 2017
+			</p>
+			 
+		</div>
+		<div class="feature gray">
+			 
+			<h4>
+				<a href="/grav-admin/reviews/the-sellout">The Sellout</a>
+			</h4>
+					
+			<p>
+				Mar 19, 2017
+			</p>
+			 
+
+	</div>
+</div>
+<div class="about-me h-card" style="display:none;">
+						<img src="/grav-admin/user/plugins/aboutme/assets/avatars/zoot.jpg" title="Jeremy Cherfas" alt="Profile picture" class="u-photo" />
+	<h4><a href="/grav-admin" class="p-name u-url">Jeremy Cherfas</a></h4>
+	<h3></h3>
+	<p class="p-note"><p>I work as a freelance communicator. In essence, I see myself as a translator. I speak Science, and I speak English, and I work hard to make the two understand one another. Mostly, I like to help people tell their stories. I&#039;m a biologist by training and by inclination, and my main joy is applying that to food and the agriculture and industries that supply it. I also have side interests in economics and many other things.</p></p>
+			<div class="social-pages">
+														<a href="https://twitter.com/EatPodcast" title="Twitter" target="_blank" rel="me" class="u-url"><i class="fa fa-2x fa-twitter"></i></a>
+												<a href="https://github.com/jeremycherfas" title="GitHub" target="_blank" rel="me" class="u-url"><i class="fa fa-2x fa-github"></i></a>
+																	<a href="https://micro.blog/jeremycherfas" title="micro.blog" target="_blank" rel="me" class="u-url"><i class="fa fa-2x fa-link"></i></a>
+												<a href="https://www.instagram.com/eatthispodcast/" title="Instagram" target="_blank" rel="me" class="u-url"><i class="fa fa-2x fa-instagram"></i></a>
+												<a href="https://pnut.io/@jeremycherfas" title="pnut" target="_blank" rel="me" class="u-url"><i class="fa fa-2x fa-share-square-o"></i></a>
+							</div>
+	</div>
+
+";s:12:"content_meta";N;}

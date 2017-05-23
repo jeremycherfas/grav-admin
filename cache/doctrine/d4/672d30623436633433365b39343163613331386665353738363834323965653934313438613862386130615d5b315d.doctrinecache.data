@@ -1,0 +1,20 @@
+1496038104
+a:2:{s:7:"content";s:1904:"<div class="modular-row callout white">
+	<h2>Latest Post</h2>
+
+ 
+
+	
+    <h1><a href="/grav-admin/blog/there-s-no-success-like-failure">There’s no success like failure</a></h1>
+
+	
+		<h2 class="subhead">and ... failure’s no success at all</h2>
+        <p>May 21, 2017</p>
+        <p><p>To dwell on the positive, I believe I am now collecting the simpler data on webmentions that I wanted to. It was a long while getting there, and fortunately I had a lot of help from Aaron Parecki, who wrote the library I wanted to use. It turns out that in my ignorance I exposed a couple of issues, which Aaron dealt with on the spot. I'd love to be able to explain what the problems were and how he solved them, but it all flew by far too quickly for me to take it in.</p>
+<p>What I did take in to a far greater degree was how to work with git. To begin with, I messed up badly in preparing my laptop for this trip, but given a bit of time to think I managed to salvage the situation by starting afresh and making better use of git to move files back and forth. Then, in actually working on the Grav webmentions plugin, I learned how best to fork the existing version and then ensure that I was getting that over to the live site.</p>
+<p>One difficulty I faced was that I could not test my changes on my local development site, precisely because it is local and so cannot be seen from outside. For today, I just sent the changes to the live site and tested there. For the future I learned about yet another cool tool, <a href="https://ngrok.com">ngrok</a>, that should make this sort of thing easier, if not simpler.</p>
+<p>All that counts as a success. The failure was that the rest of the plugin for some reason did not like the more consistent data it was presented with. Obviously there's a lot more line-by-line investigation in my future, but I will get there.</p>
+<p>I will!</p></p>
+                
+</div>
+";s:12:"content_meta";N;}

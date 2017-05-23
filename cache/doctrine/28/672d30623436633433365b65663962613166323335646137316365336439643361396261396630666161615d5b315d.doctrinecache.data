@@ -1,0 +1,25 @@
+1496039140
+a:2:{s:7:"content";s:4569:"<p>Not  an entirely fair title, I grant, but I may be experienced the first pangs of remorse after an on-going fling with open source software. The task has been to implement an image bank on my work website, in spare time and with no money. Clearly a job for open source. The site itself runs on <a href="http://www.nucleuscms.org/">Nucleus</a>, which really is a rather good open source content management system. <sup id="fnref1:1"><a href="#fn:1" class="footnote-ref">1</a></sup> And some Nucleus enthusiasts have implemented a kind of photoblog on their sites. But I need much more functionality than those seem to offer.</p>
+<p>===</p>
+<p>After searching through the available offerings I settled on one, <a href="http://www.4images.de/">4images</a>, that seemed to have everything I needed.<sup id="fnref1:2"><a href="#fn:2" class="footnote-ref">2</a></sup> There was, however, one big problem: metadata. One of the crazed things about most image libraries (even, whisper it, iPhoto) is that they don't make nearly enough use of the facility to embed information about the image within the image file itself. This metadata, often called the IPTC tags, stores crucial information about the information, including useful stuff likes captions, copyrights and keywords.</p>
+<p>The beauty of the system is that once the data have been embedded in the file they stay there until someone willfully removes them. And lots of applications, notably Photoshop, can read the information. So no more scrabbling around in search of credit or caption to go with an image. If you send someone a file with IPTC data in it, they probably have all the information they need to use the picture properly.</p>
+<p>Very few of the gallery packages I have looked at deal well with IPTC tags, and alas 4images is no exception. The IPTC standards say clearly that keywords can contain letters (<em>sensu latu</em>) <strong>and spaces</strong>. In other words, a keyword can be a phrase. But 4images seems to think that keywords should be separated by spaces. This makes nonsense of the keywords that have been lovingly added to some 3500 images in my personal image database.</p>
+<p>I don't begin to have the PHP skills needed to tackle the problem, though I did try and in the best tradition of open source not only searched the various support forums but also asked specifically and clearly for help. Deafening silence! That prompted another search of what was on offer, but none of the packages that I looked at, even those that apparently might deal properly with IPTC keywords, had the really useful features of 4images. What to do?</p>
+<p>In the end I have settled, temporarily perhaps, on a kludge. I have used Applescript and the estimable <a href="http://www.iview-multimedia.com/">iView Media Pro</a><sup id="fnref1:3"><a href="#fn:3" class="footnote-ref">3</a></sup> to append the keywords to the caption. The beauty of this is that 4images has a really good search engine that effectively searches the IPTC caption and so returns the images that contain the required keywords. It doesn't look all that pretty, but at least it works. (Not that I can point you there yet. There's the little matter of a Help Page to write. Maybe in a day or two.)</p>
+<p>The thing about open source is that it does depend on the kindness of volunteers, and I am trying not to be hurt that my pleas have gone unanswered. After all, I don't even bother to ask that nice Mr Gates if he wouldn't mind perhaps persuading his browser to comply with a few standards here and there.</p>
+<p>The other thing that I noted when I first looked at 4images was that it uses tables for positioning, which makes adjusting layouts and the like a monstrous chore. Blithely, I'm contemplating converting the whole thing -- no few than 42 templates -- to modern CSS based layout. Actually, it doesn't look that hard. What does look hard right now is finding the time to do it. But if I did, and shared that with the 4images community, maybe they could be persuaded to solve my little keyword problem.</p>
+<p>(Ooer! What a long rant.)</p>
+<div class="footnotes">
+<hr />
+<ol>
+<li id="fn:1">
+<p>Alas, now dead. But it was a good introduction for me.&#160;<a href="#fnref1:1" rev="footnote" class="footnote-backref">&#8617;</a></p>
+</li>
+<li id="fn:2">
+<p>Still going strong, apparently.&#160;<a href="#fnref1:2" rev="footnote" class="footnote-backref">&#8617;</a></p>
+</li>
+<li id="fn:3">
+<p>Even deader than NucelusCMS.&#160;<a href="#fnref1:3" rev="footnote" class="footnote-backref">&#8617;</a></p>
+</li>
+</ol>
+</div>";s:12:"content_meta";N;}

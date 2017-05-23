@@ -1,0 +1,37 @@
+1496038104
+a:2:{s:7:"content";s:1147:"  
+<div class="modular-row showcase flush-top" style="background-image: url(/grav-admin/images/6/4/c/4/2/64c4276869a81ad3c1801b6d3435c45a475a8e0c-rainbow-pines.png);">
+	 
+		<div class="mysearch">
+			<div class="search-wrapper">
+    <form name="search" onSubmit="return validateSearch(event);">
+        <input
+            name="searchfield"
+            class="search-input"
+            type="text"
+            pattern=".{3,}"
+            required
+            oninvalid="this.setCustomValidity('Please add at least 3 characters')" onchange="try{setCustomValidity('')}catch(e){}"
+            placeholder="Search..."
+            value=""
+            data-search-input="/grav-admin/search/query"
+        />
+            </form>
+    <script>
+    function validateSearch(event) {
+        var input = document.forms["search"]["searchfield"];
+        var target = input.getAttribute('data-search-input');
+        if (input.value.length >= 3) {
+            event.preventDefault();
+            window.location.href = target + ':' + input.value;
+        } else {
+            event.preventDefault();
+        }
+    }
+    </script>
+</div>
+ 
+		</div>
+		  
+	</div>
+";s:12:"content_meta";N;}

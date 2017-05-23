@@ -1,0 +1,20 @@
+{
+    "config": {
+        "user": true,
+        "modified": 1495258274,
+        "modified_date": "2017-05-20 07:31:14",
+        "version": "3.2.1"
+    },
+    "data": {
+        "https:\/\/stream.jeremycherfas.net\/content\/all?_t=rss": {
+            "filename": "34d735f13a45e96ad37ed1bdfd08be1b.json",
+            "name": "Stream",
+            "amount": 10,
+            "etag": "",
+            "last_modified": "Mon, 22 May 2017 05:57:40 GMT",
+            "cache_time": 900,
+            "last_checked": 1495433240,
+            "last_checked_date": "2017-05-22 08:07:20"
+        }
+    }
+}

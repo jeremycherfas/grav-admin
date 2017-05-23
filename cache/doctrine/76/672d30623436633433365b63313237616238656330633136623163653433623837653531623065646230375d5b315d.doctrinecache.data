@@ -1,0 +1,20 @@
+1496039142
+a:2:{s:7:"content";s:2041:"<p>We've been chatting about algorithms over on a social site that, the owner promises, will never, ever use an algorithm even if the site "grows to 100K active accounts".<sup id="fnref1:2"><a href="#fn:2" class="footnote-ref">1</a></sup> Instagram created its algorithm to ensure that visitors saw more photos that mattered to them, and the discussion seemed to agree that the algorithm was necessary only because people were following a large number of other Instagrammers. </p>
+<p>===</p>
+<p>@lukasros, who started the conversation running, posted <a href="http://www.socialmediatoday.com/social-networks/inside-instagram-algorithm">a link with more details today</a>. It contained a report by Thomas Dimson of Instagram on how why and how they built and scaled the algorithm. For me, this is the money quote.<sup id="fnref1:1"><a href="#fn:1" class="footnote-ref">2</a></sup></p>
+<blockquote>
+<p>Dimson says that in their research, they found that Instagram users weren’t seeing around 70% of the content matched to them in the chronological feed. The solution to this, according to Dimson, is to either get people to follow fewer users, ensuring they always see the content most relevant to them, or to implement an algorithm to highlight the content they’re most likely to engage with, based on the aforementioned factors.</p>
+<p>The first option isn't feasible, ...</p>
+</blockquote>
+<p>And that's what brought me up short. Of course Instagram doesn't want "people to follow fewer users," but that is the only sense in which the option isn't feasible. If, however, I have chosen to follow only a few users, wouldn't it be nice to allow me to choose whether to implement the algorithm?</p>
+<div class="footnotes">
+<hr />
+<ol>
+<li id="fn:2">
+<p>Which just goes to show how small his dreams are.&#160;<a href="#fnref1:2" rev="footnote" class="footnote-backref">&#8617;</a></p>
+</li>
+<li id="fn:1">
+<p>And yes, I'm aware of the irony.&#160;<a href="#fnref1:1" rev="footnote" class="footnote-backref">&#8617;</a></p>
+</li>
+</ol>
+</div>";s:12:"content_meta";N;}

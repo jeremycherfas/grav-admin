@@ -1,0 +1,45 @@
+1496039142
+a:2:{s:7:"content";s:5116:"<p>This past weekend, what with it being Easter and all, I decided I would attempt to go all in on <a href="http://indieweb.org">indiewebifying</a> one of my WordPress properties. I downloaded all the plugins and all the additional plugins they told me to download and set all the settings and then retired whimpering with my tail between my legs to regroup.</p>
+<p>===</p>
+<h2>Taking stock</h2>
+<p>Over the past three months I've been trying to move forward based on <a href="https://www.jeremycherfas.net/blog/putting-my-house-in-order-phase-1">Putting my house in order: Phase 1</a> </p>
+<p>The primary achievement, so far, is that as planned I managed to set up an instance of WithKnown on my own server at DreamHost as a subdomain of jeremycherfas.net, which pleases me no end. And with the help of a plugin, I can usually display the most recent posts from there to the sidebar of the Mothership's blog.<sup id="fnref1:1"><a href="#fn:1" class="footnote-ref">1</a></sup> Two itches remain. </p>
+<ol>
+<li>I think I want to export all the old stuff from vaviblog.com and bring it in, but that requires waiting for the public release of WithKnown -- which is all Vaviblog can use -- to support export in a format that the latest version -- which is what I am using on my server -- understands. Life may be too short. In any case, that really is some pretty ephemeral stuff. Maybe I'm better off without it.</li>
+<li>I need a much deeper understanding of how WithKnown treats various kinds of information-sharing activity, because the results I get when <a href="https://indieweb.org/POSSE">POSSEing</a> from my stream to social silos is often more than somewhat surprising.</li>
+</ol>
+<p>I also managed to set up a page for book reviews and the like, which will I hope morph into a record of more of the things I've read, especially if they prompt notes. And my development version of Grav can now accept comments. I haven't made it public yet because it still needs a bit of tweaking to reject spam without inconveniencing readers and, eventually, to bring in backlinks delivered by Webmentions.</p>
+<p>I also fixed the <a href="http://www.fornacalia.com/">Fornacalia</a> thing, so it goes there with and without the www and moved to a WordPress theme that is equipped with the under-the-hood niceties that permit me to be a good indieweb citizen.</p>
+<h2>Moving on</h2>
+<p>And that new theme was one reason why I decided to go all in on indiewebifying that site, but I came up short when I realised I didn't know <strong>why</strong> I was doing that. </p>
+<p>It isn't as simple as owning my data. I already own the domain and the data. So, prompted by some acute questioning from my new-found friends in the <a href="https://indieweb.org/IRC">indieweb IRC channel</a>, I did some more thinking, which ended up with a diagram, of sorts.</p>
+<p><img alt="Flow chart for sites development" class="center" src="/grav-admin/user/pages/03.blog/226.putting-my-house-in-order-phase-2/mothership-plan.png" /> </p>
+<p>This maps out what I really want from indiewebifying my various properties: to be able to extend their reach by sharing into other silos, most notably Twitter but perhaps also Facebook, and to foster engagement by repatriating any activity in those silos.<sup id="fnref1:2"><a href="#fn:2" class="footnote-ref">2</a></sup></p>
+<p>In essence:</p>
+<ul>
+<li>Each site hosts new content germane to its identity.</li>
+<li>The satellite sites share automatically via RSS to the Mothership.
+<ul>
+<li><strong>Either</strong> one big page for each satellite,</li>
+<li><strong>Or</strong> the single latest post from each on the home page and in the blog sidebar. <em>Slight preference for this option.</em></li>
+</ul></li>
+<li>Outside news comes manually in to whichever site it suits best.</li>
+<li>Some of that outside news and new content gets shared <strong>selectively</strong> to silos.
+<ul>
+<li>From ETP to @eatpodcast.</li>
+<li>From Mothership, ETP, Fornacalia and Vaviblog (when resurrected), possibly with a specific #tag, either to @nivavilov or to a compeletely new Twitter account. <em>I really don't want yet another Twitter account; pivoting the use of @nivavilov may annoy some of its current followers, but I can forewarn them, and I suspect they might be relieved.</em></li>
+</ul></li>
+<li>Some selective sharing from all four sites to FB.</li>
+</ul>
+<p>That's the outline, at any rate. And as the main point is to share, I'm vain enough to want the shared posts to look good. So that's my next big push, even before connecting all the plumbing lines on the diagram: to make sure that links to Twitter and FB look good.</p>
+<div class="footnotes">
+<hr />
+<ol>
+<li id="fn:1">
+<p>This is still slightly flaky and temperamental, and I need to try and sort it out so that it doesn't display absolutely everything. &#160;<a href="#fnref1:1" rev="footnote" class="footnote-backref">&#8617;</a></p>
+</li>
+<li id="fn:2">
+<p>Quite apart from just liking the idea of indieweb and wanting to support it.&#160;<a href="#fnref1:2" rev="footnote" class="footnote-backref">&#8617;</a></p>
+</li>
+</ol>
+</div>";s:12:"content_meta";N;}
